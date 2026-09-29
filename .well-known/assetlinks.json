@@ -1,8 +1,8 @@
 [{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.airi_drun_system.spaceland",
-    "sha256_cert_fingerprints": ["UAN9ZDBh_SyD"]
-  }
-}]
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.airi_drun_system.spaceland",
+        "sha256_cert_fingerprints": ["D3:D9:FD:FA:98:60:04:E6:2F:47:9F:BC:55:F3:29:CC:49:FF:CF:4C:F2:16:D4:08:5B:8E:26:DD:27:4F:B8:3B"]
+      }
+    }]
