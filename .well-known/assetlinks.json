@@ -1,1 +1,8 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.airi_drun_system.spaceland",
+    "sha256_cert_fingerprints": ["UAN9ZDBh_SyD"]
+  }
+}]
