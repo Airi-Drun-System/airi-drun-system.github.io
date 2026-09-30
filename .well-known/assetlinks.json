@@ -1,8 +1,18 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.airi_drun_system.spaceland",
-        "sha256_cert_fingerprints": ["D3:D9:FD:FA:98:60:04:E6:2F:47:9F:BC:55:F3:29:CC:49:FF:CF:4C:F2:16:D4:08:5B:8E:26:DD:27:4F:B8:3B"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.airi_drun_system.spaceland",
+      "sha256_cert_fingerprints": ["D3:D9:FD:FA:98:60:04:E6:2F:47:9F:BC:55:F3:29:CC:49:FF:CF:4C:F2:16:D4:08:5B:8E:26:DD:27:4F:B8:3B"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cabbitpet.app",
+      "sha256_cert_fingerprints": ["00:72:F3:DF:1E:F1:F3:99:E4:86:80:C9:40:84:56:C8:66:A9:A5:AE:6A:B4:D6:ED:AE:CB:EF:AB:AE:B9:23:49"]
+    }
+  }
+]
